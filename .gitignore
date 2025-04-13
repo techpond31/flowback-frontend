@@ -3,15 +3,12 @@ node_modules
 /build
 /.svelte-kit
 /package
-.env
-.env.*
 !.env.example
 !.env.dev.example
 !.env.prod.example
 .vercel
 .output
 src/lib/typescriptexperiments.ts
-.env
 src/lib/assets/Default_pfp.png
 /src/app.html
 /.src/app.html
@@ -23,3 +20,4 @@ setup2.bat
 
 venv
 measure.py
+config.bat
